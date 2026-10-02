@@ -25,6 +25,4 @@ This project helps users add, view, search, calculate, and delete their daily ex
 
 ```text
 ExpenseTracker.java
-Expense.class
-ExpenseTracker.class
 README.md
